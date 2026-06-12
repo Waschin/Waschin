@@ -1,19 +1,19 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:000000&height=230&section=header&text=Snake&fontSize=95&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=developer+·+Mexico+·+22&descAlignY=60&descSize=15&descAlign=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:000000&height=230&section=header&text=Recarged&fontSize=95&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=developer+·+Mexico+·+22&descAlignY=60&descSize=15&descAlign=50)
 
 [![Typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=3000&pause=1000&color=666666&center=true&vCenter=true&multiline=false&width=440&lines=building+scalable+applications;always+learning+something+new;code+%7C+create+%7C+ship)](https://git.io/typing-svg)
 
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/github-ssnqke-111111?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/ssnqke)
+[![GitHub](https://img.shields.io/badge/github-Recarged-111111?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/ssnqke)
 &nbsp;
-[![Discord](https://img.shields.io/badge/discord-ssnqke-111111?style=for-the-badge&logo=discord&logoColor=white&labelColor=000000)](https://discord.com/users/ssnqke)
+[![Discord](https://img.shields.io/badge/discord-Recarged-111111?style=for-the-badge&logo=discord&logoColor=white&labelColor=000000)](https://discord.com/users/ssnqke)
 
 <br/><br/>
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=ssnqke" />
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Recarged" />
 
 
 <br><br>
