@@ -9,7 +9,7 @@
 
 [![GitHub](https://img.shields.io/badge/github-Limitzs-111111?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/ssnqke)
 &nbsp;
-[![Discord](https://img.shields.io/badge/discord-Limitzs-111111?style=for-the-badge&logo=discord&logoColor=white&labelColor=000000)](https://discord.com/users/llimitz)
+[![Discord](https://img.shields.io/badge/discord-llimitz-111111?style=for-the-badge&logo=discord&logoColor=white&labelColor=000000)](https://discord.com/users/llimitz)
 
 <br/><br/>
 
